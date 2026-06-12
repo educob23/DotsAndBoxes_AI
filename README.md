@@ -1,6 +1,6 @@
 # Dots and Boxes — IA de jeu (Minimax, Alpha-Beta, MCTS, Expert)
  
-Implémentation en Java du jeu **Dots and Boxes** (Petits Carrés / Pousse-Pion), avec un accent sur l'**intelligence artificielle de jeu** : recherche adversariale, recherche arborescente Monte-Carlo, et une stratégie experte fondée sur la théorie des chaînes.
+Implémentation en Java du jeu **Dots and Boxes** (aussi appelé Pipopipette), avec un accent sur l'**intelligence artificielle de jeu** : recherche adversariale, recherche arborescente Monte-Carlo, et une stratégie experte fondée sur la théorie des chaînes.
  
 ## Présentation
  
