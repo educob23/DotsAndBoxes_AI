@@ -10,12 +10,7 @@ import DotsBoxes.observers.NodeCounterObserver;
 import DotsBoxes.player.ActionStrategy;
 
 /**
- * Version etudiants.
- *
- * TODO:
- * - Implementer Minimax avec elagage Alpha-Beta.
- * - Utiliser les observateurs pour compter coupes et noeuds visites.
- * - Tenir compte de la regle de rejeu apres fermeture de boxe.
+ ** Implémentation de Minimax avec élagage Alpha-Beta à profondeur limitée.
  */
 
 
